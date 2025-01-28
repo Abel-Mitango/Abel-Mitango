@@ -14,7 +14,9 @@ Se você está à procura de alguém dedicado, apaixonado e sempre disposto a ap
 [![T](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 [![Wthatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551976757103?text=Olá,vim_por_meio_do_GitHub_gostaria_de_te_conhecer_melhor)
 
+
 ---
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![SASS](./assets/sass.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
 ### 🤖 Linguagens e Tecnologias
 
