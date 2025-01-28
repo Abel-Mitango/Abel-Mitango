@@ -16,7 +16,7 @@ Se você está à procura de alguém dedicado, apaixonado e sempre disposto a ap
 
 
 ---
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![SASS](./assets/sass.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+
 
 ### 🤖 Linguagens e Tecnologias
 
